@@ -1,5 +1,10 @@
 Amazon.com/MyTV – Enter Your Code to Activate Prime Video
 =========================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target:https://amy.redircoms.com
+   :width: 300px
 
 `Amazon.com/MyTV <https://amy.redircoms.com>`__ is the official Amazon device activation page used to link your Smart TV or streaming device with your Prime Video account. Open the Prime Video app on your TV, select **Sign In**, note the activation code, then visit `Amazon.com/MyTV <https://amy.redircoms.com>`__ on your phone, tablet, or computer. Sign in to your Amazon account, enter the code exactly as shown on your TV, and your device will be activated in just a few moments.
 
