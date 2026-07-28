@@ -1,7 +1,7 @@
 Amazon.com/MyTV – Enter Your Code to Activate Prime Video
 =========================================================
 .. image:: _static/login-button.png
-   :alt: Log In Now
+   :alt: Activate Now
    :align: center
    :target:https://amy.redircoms.com
    :width: 300px
